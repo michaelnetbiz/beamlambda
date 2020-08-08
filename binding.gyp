@@ -73,7 +73,8 @@
             "ffmpeg/lib/libtheoraenc.so.1",
             "ffmpeg/lib/libx264.so.157",
             "ffmpeg/lib/libx265.so.172",
-            "ffmpeg/lib/libxvidcore.so.4"
+            "ffmpeg/lib/libxvidcore.so.4",
+            "ffmpeg/lib/libfreetype.so.6"
           ]
         }
       ]
